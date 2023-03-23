@@ -1,0 +1,15 @@
+/home/arivusurya/dailyclass/productmanagement/productmanagement/bin/Debug/net7.0/productmanagement
+/home/arivusurya/dailyclass/productmanagement/productmanagement/bin/Debug/net7.0/productmanagement.deps.json
+/home/arivusurya/dailyclass/productmanagement/productmanagement/bin/Debug/net7.0/productmanagement.runtimeconfig.json
+/home/arivusurya/dailyclass/productmanagement/productmanagement/bin/Debug/net7.0/productmanagement.dll
+/home/arivusurya/dailyclass/productmanagement/productmanagement/bin/Debug/net7.0/productmanagement.pdb
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.csproj.AssemblyReference.cache
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.AssemblyInfoInputs.cache
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.AssemblyInfo.cs
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.csproj.CoreCompileInputs.cache
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.dll
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/refint/productmanagement.dll
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.pdb
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/productmanagement.genruntimeconfig.cache
+/home/arivusurya/dailyclass/productmanagement/productmanagement/obj/Debug/net7.0/ref/productmanagement.dll
